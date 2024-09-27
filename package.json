@@ -1,0 +1,20 @@
+{
+  "name": "notes",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vaadin/router": "^1.7.5",
+    "interactjs": "^1.10.27",
+    "jwt-decode": "^4.0.0",
+    "lit": "^3.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.1"
+  }
+}
